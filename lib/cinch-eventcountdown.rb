@@ -1,7 +1,2 @@
-require "cinch-eventcountdown/version"
-
-module Cinch
-  module Eventcountdown
-    # Your code goes here...
-  end
-end
+require 'cinch/plugins/eventcountdown/version'
+require 'cinch/plugins/eventcountdown/eventcountdown'
